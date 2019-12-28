@@ -1,0 +1,11 @@
+.FilterOptions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px 0px 10px 0px;
+}
+
+.FilterOptions label {
+    padding: 10px;
+    font-size: .9em;
+}

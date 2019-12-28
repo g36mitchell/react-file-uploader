@@ -1,0 +1,16 @@
+.SearchBar {
+    display: flex;
+    flex-direction: row;
+}
+
+.SearchBar__heading {
+    width: 30%;
+}
+
+.SearchBar__controls {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 70%;
+}

@@ -1,0 +1,10 @@
+.SearchBox input {
+    height: 30px;
+    width: 250px;
+}
+
+.SearchBox svg {
+    position: relative;
+    left: 250px;
+    color: darkgray;
+}

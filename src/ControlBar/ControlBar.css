@@ -1,0 +1,19 @@
+.ControlBar {
+    border: solid 1px darkgray;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    max-width: 120px;
+}
+
+.ControlBar__btn {
+/*    text-align: center;  */
+    padding: 5px 10px 5px 10px;
+    color: darkgray;
+    font-size: 1.25em;
+}
+
+.ControlBar__btn:hover {
+    color: black;
+}
